@@ -44,4 +44,8 @@ Unity tutorial + Arcalet Simple Flow Chart
 * 下方的流程圖是Arcalet與Unity tutorial 結合的流程圖，不包含登入、登出以及尋找房主(Master)
 <img src="https://github.com/Yan-Jun/Unity-Arcalet-Multiplayer-Game/blob/master/Unity%20Arcalet%20Sample%20Diagram.png" />
 
-* 最後完成的影片為下
+Related precautions
+============
+* 相關注意事項
+* Arcalet 官方網站只能申請開發者帳號，不能申請遊戲帳號，只能透過相關API在遊戲內申請！
+* 不過印象在官方的教學文件上，有註冊玩家帳號的網址。
