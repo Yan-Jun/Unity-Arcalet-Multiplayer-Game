@@ -1,6 +1,7 @@
 Introduction
 ============
 使用Arcalet製作Unity多人連線遊戲。嘗試把Unity Tutorial專案改為多人遊戲。
+* 本專案是使用 Unity 5.5.3f1 
 * 本專案是使用舊版 Arcalet.dll
 * 本專案有提供相關場景ID，以及超級使用者帳號一組
 
