@@ -12,7 +12,7 @@ Arcalet官方網站
 http://developer.arcalet.com/?l=tw
 
 * 本專案是使用舊版 arcalet.dll
-* 新版arcalet.dll 估測修改地方是，將寫在Update方法內的Arcalet環境，改成其它方式啟動環境，並減少較能！
+* 新版arcalet.dll 估測修改地方是，將寫在Update方法內的Arcalet環境，改成其它方式啟動環境，並增加效能！
 
 ```C#
   
